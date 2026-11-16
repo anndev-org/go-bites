@@ -18,6 +18,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | Ep | Title | Source | Code |
 | --- | --- | --- | --- |
 | 1 | Why does Go exist? | [Go FAQ: Origins](https://go.dev/doc/faq#Origins) | [l1e01-why-go](l1e01-why-go) |
+| 2 | Hello, Go | [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started) | [l1e02-hello-go](l1e02-hello-go) |
 
 ## Checking the examples
 
