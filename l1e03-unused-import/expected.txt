@@ -1,0 +1,1 @@
+./hello.go:3:8: "os" imported and not used

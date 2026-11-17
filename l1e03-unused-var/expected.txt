@@ -1,0 +1,1 @@
+./hello.go:4:6: declared and not used: x

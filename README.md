@@ -19,6 +19,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | --- | --- | --- | --- |
 | 1 | Why does Go exist? | [Go FAQ: Origins](https://go.dev/doc/faq#Origins) | [l1e01-why-go](l1e01-why-go) |
 | 2 | Hello, Go | [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started) | [l1e02-hello-go](l1e02-hello-go) |
+| 3 | Unused variable? Won't compile | [Go FAQ: unused variables and imports](https://go.dev/doc/faq#unused_variables_and_imports) | [l1e03-unused-var](l1e03-unused-var), [l1e03-unused-import](l1e03-unused-import), [l1e03-blank](l1e03-blank) |
 
 ## Checking the examples
 
