@@ -1,0 +1,1 @@
+./hello.go:10:20: name secret not exported by package greet
