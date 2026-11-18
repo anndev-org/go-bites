@@ -21,6 +21,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 2 | Hello, Go | [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started) | [l1e02-hello-go](l1e02-hello-go) |
 | 3 | Unused variable? Won't compile | [Go FAQ: unused variables and imports](https://go.dev/doc/faq#unused_variables_and_imports) | [l1e03-unused-var](l1e03-unused-var), [l1e03-unused-import](l1e03-unused-import), [l1e03-blank](l1e03-blank) |
 | 4 | Capital letter = public | [A Tour of Go: Exported names](https://go.dev/tour/basics/3) | [l1e04-exported](l1e04-exported), [l1e04-unexported](l1e04-unexported), [l1e04-println](l1e04-println) |
+| 5 | `:=` vs `var` | [A Tour of Go: Short variable declarations](https://go.dev/tour/basics/10) | [l1e05-short-decl](l1e05-short-decl), [l1e05-outside](l1e05-outside), [l1e05-redeclare](l1e05-redeclare) |
 
 ## Checking the examples
 
