@@ -23,6 +23,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 4 | Capital letter = public | [A Tour of Go: Exported names](https://go.dev/tour/basics/3) | [l1e04-exported](l1e04-exported), [l1e04-unexported](l1e04-unexported), [l1e04-println](l1e04-println) |
 | 5 | `:=` vs `var` | [A Tour of Go: Short variable declarations](https://go.dev/tour/basics/10) | [l1e05-short-decl](l1e05-short-decl), [l1e05-outside](l1e05-outside), [l1e05-redeclare](l1e05-redeclare) |
 | 6 | No uninitialized variables | [A Tour of Go: Zero values](https://go.dev/tour/basics/12) | [l1e06-zero-values](l1e06-zero-values), [l1e06-var-n](l1e06-var-n) |
+| 7 | `int + float64`? No | [A Tour of Go: Type conversions](https://go.dev/tour/basics/13) | [l1e07-conversions](l1e07-conversions), [l1e07-mismatched](l1e07-mismatched), [l1e07-untyped](l1e07-untyped) |
 
 ## Checking the examples
 

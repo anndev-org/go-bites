@@ -1,0 +1,1 @@
+./hello.go:8:14: invalid operation: i + f (mismatched types int and float64)
