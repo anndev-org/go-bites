@@ -24,6 +24,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 5 | `:=` vs `var` | [A Tour of Go: Short variable declarations](https://go.dev/tour/basics/10) | [l1e05-short-decl](l1e05-short-decl), [l1e05-outside](l1e05-outside), [l1e05-redeclare](l1e05-redeclare) |
 | 6 | No uninitialized variables | [A Tour of Go: Zero values](https://go.dev/tour/basics/12) | [l1e06-zero-values](l1e06-zero-values), [l1e06-var-n](l1e06-var-n) |
 | 7 | `int + float64`? No | [A Tour of Go: Type conversions](https://go.dev/tour/basics/13) | [l1e07-conversions](l1e07-conversions), [l1e07-mismatched](l1e07-mismatched), [l1e07-untyped](l1e07-untyped) |
+| 8 | Two return values | [A Tour of Go: Multiple results](https://go.dev/tour/basics/6) | [l1e08-atoi](l1e08-atoi), [l1e08-divmod](l1e08-divmod), [l1e08-blank](l1e08-blank), [l1e08-mismatch](l1e08-mismatch) |
 
 ## Checking the examples
 

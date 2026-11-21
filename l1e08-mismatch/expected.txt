@@ -1,0 +1,1 @@
+./hello.go:9:7: assignment mismatch: 1 variable but strconv.Atoi returns 2 values
