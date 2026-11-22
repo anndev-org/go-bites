@@ -26,6 +26,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 7 | `int + float64`? No | [A Tour of Go: Type conversions](https://go.dev/tour/basics/13) | [l1e07-conversions](l1e07-conversions), [l1e07-mismatched](l1e07-mismatched), [l1e07-untyped](l1e07-untyped) |
 | 8 | Two return values | [A Tour of Go: Multiple results](https://go.dev/tour/basics/6) | [l1e08-atoi](l1e08-atoi), [l1e08-divmod](l1e08-divmod), [l1e08-blank](l1e08-blank), [l1e08-mismatch](l1e08-mismatch) |
 | 9 | Go has no `while` | [A Tour of Go: For is Go's "while"](https://go.dev/tour/flowcontrol/3) | [l1e09-while](l1e09-while), [l1e09-classic](l1e09-classic), [l1e09-forever](l1e09-forever) |
+| 10 | `switch` without `break` | [A Tour of Go: Switch](https://go.dev/tour/flowcontrol/9) | [l1e10-switch](l1e10-switch), [l1e10-fallthrough](l1e10-fallthrough), [l1e10-nocond](l1e10-nocond) |
 
 ## Checking the examples
 
