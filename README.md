@@ -28,6 +28,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 9 | Go has no `while` | [A Tour of Go: For is Go's "while"](https://go.dev/tour/flowcontrol/3) | [l1e09-while](l1e09-while), [l1e09-classic](l1e09-classic), [l1e09-forever](l1e09-forever) |
 | 10 | `switch` without `break` | [A Tour of Go: Switch](https://go.dev/tour/flowcontrol/9) | [l1e10-switch](l1e10-switch), [l1e10-fallthrough](l1e10-fallthrough), [l1e10-nocond](l1e10-nocond) |
 | 11 | `defer`: last in, first out | [A Tour of Go: Defer](https://go.dev/tour/flowcontrol/12) | [l1e11-defer](l1e11-defer), [l1e11-args](l1e11-args) |
+| 12 | Pointers, but safe | [A Tour of Go: Pointers](https://go.dev/tour/moretypes/1) | [l1e12-pointers](l1e12-pointers), [l1e12-no-arith](l1e12-no-arith) |
 
 ## Checking the examples
 

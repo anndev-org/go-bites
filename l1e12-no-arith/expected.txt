@@ -1,0 +1,1 @@
+./hello.go:8:2: invalid operation: p++ (non-numeric type *int)
