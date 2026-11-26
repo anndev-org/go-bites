@@ -30,6 +30,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 11 | `defer`: last in, first out | [A Tour of Go: Defer](https://go.dev/tour/flowcontrol/12) | [l1e11-defer](l1e11-defer), [l1e11-args](l1e11-args) |
 | 12 | Pointers, but safe | [A Tour of Go: Pointers](https://go.dev/tour/moretypes/1) | [l1e12-pointers](l1e12-pointers), [l1e12-no-arith](l1e12-no-arith) |
 | 13 | Return a pointer to a local? Fine | [Effective Go: Composite literals](https://go.dev/doc/effective_go#composite_literals), [Go FAQ: heap or stack](https://go.dev/doc/faq#stack_or_heap) | [l1e13-return-local](l1e13-return-local) |
+| 14 | Structs, no classes | [A Tour of Go: Structs](https://go.dev/tour/moretypes/2) | [l1e14-structs](l1e14-structs), [l1e14-pointer](l1e14-pointer) |
 
 ## Checking the examples
 
