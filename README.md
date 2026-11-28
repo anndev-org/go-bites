@@ -32,6 +32,7 @@ Some episodes show code that **intentionally doesn't build**, so you can see Go'
 | 13 | Return a pointer to a local? Fine | [Effective Go: Composite literals](https://go.dev/doc/effective_go#composite_literals), [Go FAQ: heap or stack](https://go.dev/doc/faq#stack_or_heap) | [l1e13-return-local](l1e13-return-local) |
 | 14 | Structs, no classes | [A Tour of Go: Structs](https://go.dev/tour/moretypes/2) | [l1e14-structs](l1e14-structs), [l1e14-pointer](l1e14-pointer) |
 | 15 | Arrays vs slices | [A Tour of Go: Slices](https://go.dev/tour/moretypes/7), [Effective Go: Arrays](https://go.dev/doc/effective_go#arrays) | [l1e15-slices](l1e15-slices), [l1e15-copy](l1e15-copy) |
+| 16 | The `append` surprise | [A Tour of Go: Slice length and capacity](https://go.dev/tour/moretypes/11), [Go spec: Appending to and copying slices](https://go.dev/ref/spec#Appending_and_copying_slices) | [l1e16-append](l1e16-append), [l1e16-grow](l1e16-grow) |
 
 ## Checking the examples
 
